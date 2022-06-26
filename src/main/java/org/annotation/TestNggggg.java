@@ -29,7 +29,12 @@ private void test2() {
 
 }
 	
-	
+@Test
+private void test3() {
+	System.out.println("sdfgh");
+
+}
+
 	
 	
 	

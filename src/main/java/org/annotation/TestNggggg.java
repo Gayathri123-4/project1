@@ -23,7 +23,11 @@ public class TestNggggg {
 
 	}
 	
-	
+@Test
+private void test2() {
+	System.out.println("test2");
+
+}
 	
 	
 	
